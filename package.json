@@ -1,6 +1,6 @@
 {
-  "name": "@cetchebarne/ce-design-system",
-  "version": "1.0.0",
+  "name": "ce-design-system",
+  "version": "0.1.0",
   "description": "CE Design System",
   "scripts": {
     "tokens": "style-dictionary build -c design-tokens/config.json"
