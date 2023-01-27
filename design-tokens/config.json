@@ -1,0 +1,16 @@
+{
+  "source": ["**/*.json"],
+  "platforms": {
+    "css": {
+      "prefix": "ce",
+      "transformGroup": "css",
+      "buildPath": "styles/",
+      "files": [
+        {
+          "format": "css/variables",
+          "destination": "variables.css"
+        }
+      ]
+    }
+  }
+}
