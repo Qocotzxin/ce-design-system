@@ -1,14 +1,17 @@
 {
-  "name": "ce-design-system",
+  "name": "@cetchebarne/ce-design-system",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "CE Design System",
   "scripts": {
     "tokens": "style-dictionary build -c design-tokens/config.json"
   },
   "keywords": [],
-  "author": "",
+  "author": "Cristian Etchebarne",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qocotzxin/cs-design-system/issues"
+  },
+  "homepage": "https://github.com/Qocotzxin/cs-design-system#readme",
   "devDependencies": {
     "style-dictionary": "^3.7.2"
   },
