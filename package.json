@@ -5,7 +5,9 @@
   "scripts": {
     "tokens": "style-dictionary build -c design-tokens/config.json"
   },
-  "keywords": [],
+  "keywords": [
+    "CE Design System"
+  ],
   "author": "Cristian Etchebarne",
   "license": "ISC",
   "bugs": {
